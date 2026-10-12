@@ -1,0 +1,8 @@
+google-play-scraper>=1.2.7
+pandas>=2.1
+numpy>=1.26
+plotly>=5.18
+streamlit>=1.30
+reportlab>=4.0
+python-pptx>=0.6.23
+pytest>=8.0

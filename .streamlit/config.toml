@@ -1,0 +1,3 @@
+[client]
+# Hide Streamlit developer controls such as the Deploy option in the app toolbar.
+toolbarMode = "viewer"
